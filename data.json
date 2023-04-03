@@ -1,0 +1,91 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Chocolate Cakesicles",
+      "image": "https://example.com/chocolate-cakesicles.jpg",
+      "description": "These chocolate cakesicles are a fun and tasty twist on traditional cake pops. Made with rich chocolate cake and coated in creamy chocolate, they're perfect for any occasion.",
+      "ingredients": [
+        "1 box vanilla cake mix",
+        "1/2 cup vegetable oil",
+        "3 eggs",
+        "1 cup water",
+        "1 cup powdered sugar",
+        "2-3 tablespoons milk",
+        "1/2 teaspoon vanilla extract"
+      ],
+      "instructions": [
+        "Preheat the oven to 350 degrees F. Grease a 9x13 inch baking pan.",
+        "Mix the cake mix, vegetable oil, eggs, and water in a large bowl until well combined.",
+        "Pour the batter into the prepared pan and bake for 30-35 minutes, or until a toothpick inserted in the center comes out clean.",
+        "Let the cake cool completely, then crumble it into a large bowl.",
+        "Form the cake crumbs into small balls or cylinders, and insert a popsicle stick into each one.",
+        "In a small bowl, whisk together the powdered sugar, milk, and vanilla extract until smooth.",
+        "Dip each cakesicle into the glaze, and place on a parchment-lined baking sheet.",
+        "Refrigerate the cakesicles until the glaze is set, then serve and enjoy!"
+      ],
+      "prepTime": "20 minutes",
+      "cookTime": "35 minutes",
+      "totalTime": "55 minutes",
+      "servings": "12 cakesicles"
+    },
+    {
+      "id": 2,
+      "name": "Vanilla Cakesicles",
+      "image": "https://example.com/vanilla-cakesicles.jpg",
+      "description": "These vanilla cakesicles are a delicious and refreshing treat that everyone will love. Made with fluffy vanilla cake and coated in a sweet vanilla glaze, they're perfect for a hot summer day.",
+      "ingredients": [
+        "1 box vanilla cake mix",
+        "1/2 cup vegetable oil",
+        "3 eggs",
+        "1 cup water",
+        "1 cup powdered sugar",
+        "2-3 tablespoons milk",
+        "1/2 teaspoon vanilla extract"
+      ],
+      "instructions": [
+        "Preheat the oven to 350 degrees F. Grease a 9x13 inch baking pan.",
+        "Mix the cake mix, vegetable oil, eggs, and water in a large bowl until well combined.",
+        "Pour the batter into the prepared pan and bake for 30-35 minutes, or until a toothpick inserted in the center comes out clean.",
+        "Let the cake cool completely, then crumble it into a large bowl.",
+        "Form the cake crumbs into small balls or cylinders, and insert a popsicle stick into each one.",
+        "In a small bowl, whisk together the powdered sugar, milk, and vanilla extract until smooth.",
+        "Dip each cakesicle into the glaze, and place on a parchment-lined baking sheet.",
+        "Refrigerate the cakesicles until the glaze is set, then serve and enjoy!"
+      ],
+      "prepTime": "20 minutes",
+      "cookTime": "35 minutes",
+      "totalTime": "55 minutes",
+      "servings": "12 cakesicles"
+    },
+       {
+      "id": 3,
+      "name": "Strawberry Cakesicles",
+      "image": "https://example.com/strawberry-cakesicles.jpg",
+      "description": "These vanilla cakesicles are a delicious and refreshing treat that everyone will love. Made with fluffy vanilla cake and coated in a sweet vanilla glaze, they're perfect for a hot summer day.",
+      "ingredients": [
+        "1 box strawberry cake mix",
+        "1/2 cup vegetable oil",
+        "3 eggs",
+        "1 cup water",
+        "1 cup powdered sugar",
+        "2-3 tablespoons milk",
+        "1/2 teaspoon strawberry extract"
+      ],
+      "instructions": [
+        "Preheat the oven to 350 degrees F. Grease a 9x13 inch baking pan.",
+        "Mix the cake mix, vegetable oil, eggs, and water in a large bowl until well combined.",
+        "Pour the batter into the prepared pan and bake for 30-35 minutes, or until a toothpick inserted in the center comes out clean.",
+        "Let the cake cool completely, then crumble it into a large bowl.",
+        "Form the cake crumbs into small balls or cylinders, and insert a popsicle stick into each one.",
+        "In a small bowl, whisk together the powdered sugar, milk, and strawberry extract until smooth.",
+        "Dip each cakesicle into the glaze, and place on a parchment-lined baking sheet.",
+        "Refrigerate the cakesicles until the glaze is set, then serve and enjoy!"
+      ],
+      "prepTime": "20 minutes",
+      "cookTime": "35 minutes",
+      "totalTime": "55 minutes",
+      "servings": "12 cakesicles"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+.Navbar{
+     &-container{
+        background-color: peachpuff;
+     }
+
+     &-logo{
+          text-decoration: none;
+          height: 2rem;
+          color: plum;
+     }
+
+     &-icon{
+          
+     }
+
+     .nav-links{
+          color: purple;
+     }
+
+     .activated{
+          color: peru
+     }
+}
