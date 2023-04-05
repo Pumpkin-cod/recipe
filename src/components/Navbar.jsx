@@ -25,9 +25,9 @@ function Navbar() {
                         <ul className={click ? "nav-menu active" : "nav-menu"}>
                             <li className='nav-item'>
                                 <NavLink to="/" className={({ isActive }) => "nav-links" + (isActive ? "  activated" : "")} onClick={closeMobileMenu}>Home</NavLink></li>
-                            <li className='nav-item'><NavLink to="/recipes" className={({ isActive }) => "nav-links" + (isActive ? " activated" : "")} onClick={closeMobileMenu}>Recipes</NavLink></li>
                             <li className='nav-item'><NavLink to="/about" className={({ isActive }) => "nav-links" + (isActive ? " activated" : "")} onClick={closeMobileMenu}>About</NavLink></li>
                             <li className='nav-item'><NavLink to="/contact" className={({ isActive }) => "nav-links" + (isActive ? " activated" : "")} onClick={closeMobileMenu}>Contact</NavLink></li>
+                            <li className='nav-item'><NavLink to="/recipes" className={({ isActive }) => "nav-links" + (isActive ? " activated" : "")} onClick={closeMobileMenu}>Recipes</NavLink></li>
                         </ul>
                     </div>
 

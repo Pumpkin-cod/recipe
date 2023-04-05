@@ -4,9 +4,16 @@
   padding: 0;
 }
 
+.engulf{
+  background: rgba(0, 0, 0, 0.5) url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.tq9SwY9CqFa50eNTx_ulMgAAAA%26pid%3DApi&f=1&ipt=fd6cae224259b1821ed14def9ccecd11d9b98728da40fd34ac006212519283be&ipo=images);
+  background-size: cover;
+  background-blend-mode: darken;
+
+}
+
 .navbar {
-  background: #6363ef;
-  height: 80px;
+  /* background: #6363ef; */
+  height: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -147,4 +154,13 @@
     font-size: 1.8rem;
     cursor: pointer;
   }
+}
+
+
+.carousel-image{
+  width: 70%;
+  height: 90vh;
+  border-radius: 4rem;
+  margin: auto;
+
 }

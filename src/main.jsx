@@ -11,14 +11,18 @@ import About from './components/About'
 import Contact from "./components/Contact";
 import Recipes from "./components/Recipes";
 import Navbar from "./components/Navbar";
+import Slider from "./components/Slider";
+import slides from "./components/slider.json"
+import 'bootstrap/dist/css/bootstrap.min.css';
 import "./style.css";
 
 
-const App =() =>{
-  return(
-    <>
+const App = () => {
+  return (
+    <div className="engulf">
       <Navbar />
-    </>
+      <Slider slides={slides} />
+    </div>
   )
 }
 
@@ -37,17 +41,17 @@ const router = createBrowserRouter([
         element: <About />,
       },
       {
-        path: "about",
+        path: "contact",
         element: <Contact />,
       },
       {
-        path: "about",
+        path: "recipes",
         element: <Recipes />,
       },
     ]
   }
 
-  
+
 ]);
 
 createRoot(document.getElementById("root")).render(
