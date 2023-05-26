@@ -11,7 +11,7 @@ function Navbar() {
     const closeMobileMenu = () => setClick(false);
 
     return (
-        <>
+        <div className=''>
             <IconContext.Provider value={{ color: "#fff" }}>
                 <nav className='navbar'>
                     <div className='navbar-container container'>
@@ -34,7 +34,7 @@ function Navbar() {
 
                 </nav>
             </IconContext.Provider>
-        </>
+        </div>
     );
 }
 

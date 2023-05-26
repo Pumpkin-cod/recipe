@@ -22,6 +22,7 @@ const App = () => {
     <div className="engulf">
       <Navbar />
       <Slider slides={slides} />
+      <About />
     </div>
   )
 }
